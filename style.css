@@ -4,6 +4,18 @@
     background-color: rgb(37, 165, 216);
 }
 
+.footer-img1{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+}
+
+.footer-img2{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+}
+
 .logo-img{
     padding-top: 50px;
     height: 60px;
@@ -18,8 +30,20 @@ main{
     font-size: 2.5rem;
 }
 
-.gray{
+.small-txt{
+    font-size: 0.8rem;
+}
+
+.small-title{
+    font-size: 1.7rem;
+}
+
+.grey{
     color: grey;
+}
+
+.light-grey{
+    color: lightgray;
 }
 
 .skyblue{
@@ -55,4 +79,9 @@ thead{
 
 .small-column{
     width: 300px;
+}
+
+.center-txt{
+    padding-left: 10px;
+    padding-top: 10px;
 }
