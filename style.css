@@ -1,0 +1,9 @@
+.logo{
+    background-image: url(img/pattern.png);
+    background-size: 450px;
+    background-color: rgb(37, 165, 216);
+}
+.logo-img{
+    padding-top: 50px;
+    height: 60px;
+}
