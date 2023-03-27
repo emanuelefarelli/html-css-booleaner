@@ -7,3 +7,12 @@
     padding-top: 50px;
     height: 60px;
 }
+.title{
+    font-size: 3rem;
+}
+.gray{
+    color: grey;
+}
+.skyblue{
+    color: rgb(37, 165, 216);
+}
